@@ -1,0 +1,6 @@
+<items gfxroot="gfx/items/" version="1">
+	<active name="Cheat Program" description="Hack the game engine!" gfx="placeholder.png" maxcharges="6" quality="3"/>
+	<passive name="Backup Save" description="Let me try again..." gfx="placeholder.png" quality="4"/>
+	<trinket name="Marked Card" description="Pick a card..." gfx="placeholder.png"/>
+	<trinket name="Loaded Die" description="High Roller!" gfx="placeholder.png"/>
+</items>

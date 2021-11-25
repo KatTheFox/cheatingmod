@@ -1,0 +1,9 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Cheat Program" Weight="0.1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="secret">
+		<Item Name="Backup Save" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Cheat Program" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>
